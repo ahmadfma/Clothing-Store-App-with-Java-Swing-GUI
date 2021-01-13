@@ -1,0 +1,2 @@
+Jenis = Jaket, Nama Barang = Jaket Azalia, Ukuran = S, Warna = ABU-ABU, Jumlah = 1, Total Harga = Rp155.000,00.
+***#Tranfer - Bank BRI#JNE Reguler#Rp175.000,00
