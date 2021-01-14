@@ -8,4 +8,4 @@ java -jar "AhmadApp.jar"
 or open run.bat file
 
 *note : if you want to run this app, please change your display setting to 100% first :)
-im using netbeans editor to made this
+*im using netbeans editor to made this
